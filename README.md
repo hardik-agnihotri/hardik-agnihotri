@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋 I'm Hardik Agnihotri
 
-<!--
-**hardik-agnihotri/hardik-agnihotri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently learning full-stack web development  
+🌱 I recently made my first open source contribution!  
+👯 I’m looking to collaborate on beginner-friendly open source projects  
+💬 Ask me about React, Node.js, JavaScript, or Git  
+📫 How to reach me: www.linkedin.com/in/hardikagnihotri
+⚡ Fun fact: I love building stuff and helping others grow too!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- 💻 MERN
+- 💻 HTML, CSS, JavaScript
+- ⚛️ React.js
+- 🖥️ Node.js, Express
+- 📦 MongoDB (if you use it)
+- 🎨 UI/UX design (beginner level)
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
